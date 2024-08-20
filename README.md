@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**farnazmnz/farnazmnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **Farnaz Mirnezami**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on **Machine Learning projects**.  
+🔍 I’m also researching in the field of **Artificial Intelligence**.
+ 
+**💡 Areas of Interest:**
+- Deep Learning
+- Machine Learning   
+- Computer Vision
+- Natural Language Processing
+  
+📫 How to reach me : [farnaz.mirnezami@gmail.com](mailto:farnaz.mirnezami@gmail.com) 
